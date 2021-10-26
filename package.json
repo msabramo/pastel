@@ -55,13 +55,13 @@
 	},
 	"devDependencies": {
 		"ava": "^0.25.0",
-		"ink": "^2.1.1",
+		"ink": "^3.0.9",
 		"prop-types": "^15.7.2",
 		"react": "^16.8.6",
 		"xo": "^0.21.0"
 	},
 	"peerDependencies": {
-		"ink": "^2.1.1",
+		"ink": "^3.0.9",
 		"prop-types": "^15.7.2",
 		"react": "^16.8.6 || ^17"
 	}
